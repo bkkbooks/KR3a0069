@@ -1,0 +1,205 @@
+canonical_identifier: bkk:krp/KR3a0069/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3a0069/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孔子集語
+  identifiers:
+    krp: KR3a0069
+  tags:
+    kr-categories: KR3a
+    tls-dates: dat04350
+    tls-internal:
+    - tr-en
+    - swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0069.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0069_000-tls.yaml, hash: 'sha256:736a35a33a130cd97b4aaaefe3ca79876787cdc1e64cde23eda3b91832184f2f'}
+  - {seq: 1, filename: KR3a0069_001-tls.yaml, hash: 'sha256:a569a02377f7d4eb030ebbc1fcbef80a249bede54c94c7f08d837fbde142b6e3'}
+  - {seq: 2, filename: KR3a0069_002-tls.yaml, hash: 'sha256:bfad070be96f949ff21ed371d03411365d0482d5be35dfb03a70bc6d81ca0a91'}
+  - {seq: 3, filename: KR3a0069_003-tls.yaml, hash: 'sha256:ece2ffb2387069c2f8021ffaf8433f2ef1d028dae1965fe8b68407db8dc81d6d'}
+  - {seq: 4, filename: KR3a0069_004-tls.yaml, hash: 'sha256:3982cd92bc1d5044bc05087fe733c22b38af375fc67739421d45c92a75e48cfc'}
+  - {seq: 5, filename: KR3a0069_005-tls.yaml, hash: 'sha256:145917e3de16debaffdef677a0757b0c3c319356c0ebe432a6fe9f27d1c3b33b'}
+  - {seq: 6, filename: KR3a0069_006-tls.yaml, hash: 'sha256:9a2c9fc1497c8dc25727015779de1476b00cdcc1161bcc4cd88e683dcf74dde1'}
+  - {seq: 7, filename: KR3a0069_007-tls.yaml, hash: 'sha256:6057be1cf926688872c4ae7bce3fff9874848f70d0927b5cc8dbe35a6872893c'}
+  - {seq: 8, filename: KR3a0069_008-tls.yaml, hash: 'sha256:a1e6b7293a74c5e85d9e1e13a26f3a4aa7726e2d671f8f81e9638a576f98ce65'}
+  - {seq: 9, filename: KR3a0069_009-tls.yaml, hash: 'sha256:52a4617c947a40ee5c5b2e190fed29947e7d1ac89ad986a5864f59932495abad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0069_000-tls.markers.yaml, hash: 'sha256:075bfd3fc1655f15ca5073f2c74e985071afeb3e5893f6c6cbfcfdcccd2a1d68'}
+  - {seq: 1, role: markers, filename: assets/KR3a0069_001-tls.markers.yaml, hash: 'sha256:bf74ea9c4b1ae80c34275208092a11b27a836608b724934bc4e0fe43b04a1efc'}
+  - {seq: 2, role: markers, filename: assets/KR3a0069_002-tls.markers.yaml, hash: 'sha256:ed9e7a27017da116772201b18a21f0baa44ec35492c492d2221722dfc6a6d6b6'}
+  - {seq: 3, role: markers, filename: assets/KR3a0069_003-tls.markers.yaml, hash: 'sha256:78b1e03d958240309d6a957a494e05a13d56cc037157d1368e11a0399ee60e41'}
+  - {seq: 4, role: markers, filename: assets/KR3a0069_004-tls.markers.yaml, hash: 'sha256:271a55c46315cea94545ef1121b49a3c410a263cabd67e1816dc5598aa29692a'}
+  - {seq: 5, role: markers, filename: assets/KR3a0069_005-tls.markers.yaml, hash: 'sha256:3cc397a74796242ec6dbabceba56bcdcc60019cba3e228a0f27594f9626df29b'}
+  - {seq: 6, role: markers, filename: assets/KR3a0069_006-tls.markers.yaml, hash: 'sha256:38f84ecd6467c0c87f9ff23ebfc947738307326ac2e247dfcf599b19316cb9ba'}
+  - {seq: 7, role: markers, filename: assets/KR3a0069_007-tls.markers.yaml, hash: 'sha256:dbbc8c1b8dc6d3d2081203bba048b2d9b7bf9516aecd5d103b922e47249a1ce2'}
+  - {seq: 8, role: markers, filename: assets/KR3a0069_008-tls.markers.yaml, hash: 'sha256:c73f297a145a50b4f65261771c7c18c3e454edd03118ccdf8dd03c681021108f'}
+  - {seq: 9, role: markers, filename: assets/KR3a0069_009-tls.markers.yaml, hash: 'sha256:b7222128d4e2bc4524e5ecea41aa14a01af4901f85c45b5263205fdfa6e3bcca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0069_tls_000-h.1
+    span:
+    - body
+    - 0
+    - 1454
+  label: 孔子集語
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0069_tls_001-h.1
+    span:
+    - body
+    - 0
+    - 2397
+  label: 勸學一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0069_tls_002-h.1
+    span:
+    - body
+    - 0
+    - 3529
+  label: 孝本二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0069_tls_003-h.1
+    span:
+    - body
+    - 0
+    - 3286
+  label: 五性三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0069_tls_003-42a.1
+    span:
+    - body
+    - 3286
+    - 19625
+  label: 六藝四上
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0069_tls_004-h.1
+    span:
+    - body
+    - 0
+    - 10597
+  label: 主德五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0069_tls_005-h.1
+    span:
+    - body
+    - 0
+    - 3539
+  label: 臣術六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0069_tls_006-h.1
+    span:
+    - body
+    - 0
+    - 1240
+  label: 交道七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0069_tls_007-h.1
+    span:
+    - body
+    - 0
+    - 12188
+  label: 論人八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0069_tls_008-h.1
+    span:
+    - body
+    - 0
+    - 12302
+  label: 論政九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-h.1
+    span:
+    - body
+    - 0
+    - 1733
+  label: 博物十
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-22a.1
+    span:
+    - body
+    - 1733
+    - 16704
+  label: 事譜十一上
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-134a.1
+    span:
+    - body
+    - 16704
+    - 21765
+  label: 雜事十二
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-192a.1
+    span:
+    - body
+    - 21765
+    - 25544
+  label: 遺讖十三
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-234a.1
+    span:
+    - body
+    - 25544
+    - 34593
+  label: 寓言十四上
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0069_tls_009-273a.1
+    span:
+    - body
+    - 34593
+    - 44514
+  label: 寓言十四下
+  type: section
+  level: 1
+hash: sha256:6b28da70c434e9dbe38db656f923fe1fd5b57287427b7142ebe85a727a82c63d

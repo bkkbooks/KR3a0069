@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR3a0069/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3a0069/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孔子集語
+  date: '2015-08-24 22:59:43.711534'
+  source:
+    repository: kanripo
+    path: KR3a0069
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0069_000-krp.yaml, hash: 'sha256:672ff16f303547445f91cbf7544ace44c5705699a2cca2c5e44b3cbec79df247'}
+  - {seq: 1, filename: KR3a0069_001-krp.yaml, hash: 'sha256:b36caf1e3301d8d29a80d89ec7c0b144b42ea5c0d6a85b6079b9ececd3110fee'}
+  - {seq: 2, filename: KR3a0069_002-krp.yaml, hash: 'sha256:bc9053453a6711f1bf592e704eeb14752312657c149573092d4b2e39edaa4483'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0069_000-krp.markers.yaml, hash: 'sha256:017638f541c1cf0388f4a3f76e6feb2e316b5573320a971623e5bfbdc5b472c7'}
+  - {seq: 1, role: markers, filename: assets/KR3a0069_001-krp.markers.yaml, hash: 'sha256:5db2dba8b13c722e6cbfe781171f54b439648503c5f5b0958c9390d42d2e0a6d'}
+  - {seq: 2, role: markers, filename: assets/KR3a0069_002-krp.markers.yaml, hash: 'sha256:b5efcf3db432d0419de4b50d85cd4caf9f1f820d37774f567459a4bdbfa68f94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0069_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 486
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0069_WYG_000-3a
+    span:
+    - body
+    - 486
+    - 998
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0069_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7630
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0069_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 9000
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:c2b06864bacbe67362b018d5c71f633d40b93fd9f140e410c34b65b6f8b4be1a
